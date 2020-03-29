@@ -1,4 +1,4 @@
-# MLB-Pitching-Database-Development
+# MLB Pitching Database Development
 This project is done by Alayna C. Myrick, Calvin Wu, and Yuanyuan Ge. We created a MySQL database that encompasses all of the MLB pitches from the 2015-2018 season. Data for this database was sourced from two main sources; Kaggle and web scraped data from the Baseball Reference website.
 
 This database was built with the goal of it being used for predictive modeling for pitch types by MLB organizations and sports analytics firms. It can also be used for a variety of other descriptive purposes as well.
